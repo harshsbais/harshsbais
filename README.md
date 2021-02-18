@@ -2,7 +2,8 @@
 <br />
 <a href='https://www.linkedin.com/in/harshsbais/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/harshsbais/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
- - 🔭 I’m currently working on something special <br/>
+<br />
+ - 🔭 I’m currently working on <b>Drigo</b> <br/>
  - 🌱 I’m currently learning ReactJS <br/>		 
 - :neutral_face: I have a <b>love/hate</b> relationship with <b>Programming</b> <br/>
 - 🤔 I’m looking for help with DSA <br/>
